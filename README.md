@@ -1,3 +1,6 @@
+**This project has been retired (but the live version might still be running).  Please fork and continue work on it if you find it useful.**
+===
+
 # eddn-listener
 An EDDN listener, storing data into a postgresql database.
 
